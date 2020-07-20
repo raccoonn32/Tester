@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ico/channel/green.png</file>
+        <file>ico/channel/red.png</file>
+        <file>ico/channel/white.png</file>
+        <file>ico/channel/x.png</file>
+        <file>ico/channel/yellow.png</file>
+    </qresource>
+</RCC>

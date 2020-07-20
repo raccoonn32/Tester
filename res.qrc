@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ico/circle_green.png</file>
+        <file>ico/circle_grey.png</file>
+        <file>ico/circle_orange.png</file>
+        <file>ico/circle_purple.png</file>
+        <file>ico/circle_red.png</file>
+        <file>ico/circle_yellow.png</file>
+        <file>ico/circle_black_20x20.ico</file>
+        <file>ico/circle_blue_20x20.ico</file>
+        <file>ico/circle_green_20x20.ico</file>
+        <file>ico/circle_grey_20x20.ico</file>
+        <file>ico/circle_orange_20x20.ico</file>
+        <file>ico/circle_purple_20x20.ico</file>
+        <file>ico/circle_red_20x20.ico</file>
+        <file>ico/circle_yellow_20x20.ico</file>
+        <file>ico/circle_black.png</file>
+        <file>ico/circle_blue.png</file>
+        <file>ico/startingup.bmp</file>
+        <file>ico/fileexport.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,24 @@
+QWidget:window{
+background-color:
+qlineargradient(spread:pad,x1:0, y1:0, x2:0, y2:1,
+stop:0 rgb(157,189,218),stop:0.5
+rgb(207, 238, 255),stop:1 rgb(157,189,218));
+}
+
+QTableView::item:!enabled {
+background : rgb(221,199,221);
+color:black
+}
+
+QPushButton:checked{
+color: rgb(255, 255, 0);
+background-color: rgb(255, 0, 0);
+border-style: solid;
+}
+
+QPushButton:pressed{
+color: rgb(255, 255, 0);
+background-color: rgb(255, 0, 0);
+border-style: solid;
+}
+
